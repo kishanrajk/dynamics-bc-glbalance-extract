@@ -1,0 +1,14 @@
+{
+  "id": "8f1b6b72-21d1-4c3b-b4b0-123456789abc",
+  "name": "GL Balance Extract API",
+  "publisher": "Kishanraj",
+  "version": "1.0.0.0",
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50200,
+      "to": 50249
+    }
+  ]
+}
